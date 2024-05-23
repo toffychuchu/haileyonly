@@ -1,0 +1,22 @@
+
+* {
+    margin: 5;
+    padding: 10;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+  }
+
+  body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 110, 53);
+  }
+
+Form input{
+    margin: 2px;
+    padding: 10px;
+}
+
